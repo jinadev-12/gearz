@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         logo2: ['"Russo One"', "sans-serif"],
         logo1: ['"Bebas Neue"', "sans-serif"],
+        manrope: ["Manrope","sans-serif"],
       },
     },
   },

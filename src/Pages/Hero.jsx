@@ -1,5 +1,6 @@
 import React from "react";
-import heroBg from "../Assets/heroBg.jpg";
+import heroBg from "../Assets/heroBg2.jpg";
+
 
 function Hero() {
   return (
